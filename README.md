@@ -82,7 +82,10 @@ if _name_ == '_main_':
 ## MobileRobot Movement Video:
 
 
-[![video link](./https://www.youtube.com/watch?v=zCOM2Uld7QA)]
+## video link = 
+```
+https://www.youtube.com/watch?v=zCOM2Uld7QA
+```
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
